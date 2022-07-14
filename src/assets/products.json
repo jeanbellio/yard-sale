@@ -1,0 +1,103 @@
+{
+	"data": [
+        {
+			"name": "TV",
+			"description": "Product Description",
+			"price": 410,
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+			]
+		},
+		{
+			"name": "Ventilador",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+			],
+			"price": 20
+		},
+        {
+			"name": "Mesa escritório",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 35
+		},
+        {
+			"name": "Cadeira escritório",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 30
+		},
+        {
+			"name": "Mesinha de centro",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 15
+		},
+        {
+			"name": "Colchão inflável + bomba",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 25
+		},
+        {
+			"name": "Chaleira elétrica",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 10
+		},
+        {
+			"name": "Air Fryer",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 35
+		},
+        {
+			"name": "Grill",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 40
+		},
+        {
+			"name": "Torradeira",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+			],
+			"price": 5
+		},
+        {
+			"name": "Jarra de água",
+			"description": "Product Description",
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpg", "2.jpg"
+			],
+			"price": 15
+		}
+	]
+}

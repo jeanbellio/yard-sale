@@ -1,0 +1,41 @@
+<div class="card">
+    <p-dataView #dv [value]="products" [paginator]="true" [rows]="9" filterBy="name" layout="grid">
+        
+        <ng-template let-product pTemplate="gridItem">
+            <div class="col-4">
+                <div class="product-grid-item card">
+                    <div class="product-grid-item-content">
+                        <p-image [src]="'assets/image/products/' + product.galeryFolderName + '/main.jpg'" [alt]="product.name" (click)="showDialog(product.galeryFolderName, 'main.jpg')"></p-image>
+                        <div class="product-name">{{product.name}}</div>
+                        <div class="product-description">{{product.description}}</div>
+                    </div>
+
+                    <div class="product-galery">
+                        <p-carousel [value]="product.galeryImages" [numVisible]="3" [numScroll]="3" [circular]="false" [responsiveOptions]="responsiveOptions">
+                            <ng-template let-item pTemplate="item">
+                                <div >
+                                    <div class="product-item-content">
+                                        <div class="mb-3">
+                                            <p-image [src]="'assets/image/products/' + product.galeryFolderName + '/' + item" [alt]="product.name" (click)="showDialog(product.galeryFolderName, item)" class="product-item"></p-image>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ng-template>
+                        </p-carousel>
+                    </div>
+
+
+                    <div class="product-grid-item-bottom">
+                        <span class="product-price">${{product.price}}</span>
+                    </div>
+                </div>
+            </div>
+        </ng-template>
+    </p-dataView>
+</div>
+
+<p-dialog [(visible)]="display" [draggable]="false">
+    <div class="product-item-galery">
+        <img [src]="'assets/image/products/' + this.imageName" style="width: 70%;"/>
+    </div>
+</p-dialog>
