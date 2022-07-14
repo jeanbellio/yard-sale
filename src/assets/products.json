@@ -7,7 +7,8 @@
 			"galeryFolderName": "tv",
 			"galeryImages": [
 				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
-			]
+			],
+			"available": false
 		},
 		{
 			"name": "Ventilador",
@@ -16,7 +17,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
 			],
-			"price": 20
+			"price": 20,
+			"available": true
 		},
         {
 			"name": "Mesa escritório",
@@ -25,7 +27,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 35
+			"price": 35,
+			"available": true
 		},
         {
 			"name": "Cadeira escritório",
@@ -34,7 +37,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 30
+			"price": 30,
+			"available": true
 		},
         {
 			"name": "Mesinha de centro",
@@ -43,7 +47,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 15
+			"price": 15,
+			"available": true
 		},
         {
 			"name": "Colchão inflável + bomba",
@@ -52,7 +57,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 25
+			"price": 25,
+			"available": true
 		},
         {
 			"name": "Chaleira elétrica",
@@ -61,7 +67,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 10
+			"price": 10,
+			"available": true
 		},
         {
 			"name": "Air Fryer",
@@ -70,7 +77,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 35
+			"price": 35,
+			"available": true
 		},
         {
 			"name": "Grill",
@@ -79,7 +87,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 40
+			"price": 40,
+			"available": true
 		},
         {
 			"name": "Torradeira",
@@ -88,7 +97,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
 			],
-			"price": 5
+			"price": 5,
+			"available": true
 		},
         {
 			"name": "Jarra de água",
@@ -97,7 +107,8 @@
 			"galeryImages": [
 				"1.jpg", "2.jpg"
 			],
-			"price": 15
+			"price": 15,
+			"available": true
 		}
 	]
 }

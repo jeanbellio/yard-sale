@@ -11,7 +11,6 @@ import { Product } from 'src/app/interfaces/product';
 export class ItemsDataViewComponent implements OnInit {
 
   products: Product[] = [];
-  products2: Product[] = [];
   responsiveOptions = [
       {
           breakpoint: '1024px',
@@ -33,9 +32,9 @@ export class ItemsDataViewComponent implements OnInit {
   constructor(private productService: ProductService, private primengConfig: PrimeNGConfig) { }
 
   ngOnInit() {
-      this.productService.getProducts().then((data: any) => {
-        this.products = data;
-        this.products2 = data;
+      this.productService.getProducts().subscribe((data: any) => {
+        this.products = data.data;
+        this.products = this.products.filter(p => p.available)
       });
 
       this.primengConfig.ripple = true;

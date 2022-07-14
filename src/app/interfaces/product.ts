@@ -4,4 +4,5 @@ export interface Product {
     price?:number;
     galeryImages?:[];
     galeryFolderName?:string;
+    available?:boolean;
 }
