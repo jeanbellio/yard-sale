@@ -3,7 +3,7 @@
     <p-dataView #dv [value]="products" filterBy="name" layout="grid">
         
         <ng-template let-product pTemplate="gridItem" >
-            <div class="col-4">
+            <div class="col-12 md:col-6 lg:col-4">
                 <div class="product-grid-item card">
                     <div class="product-grid-item-content">
                         <p-image [src]="'assets/image/products/' + product.galeryFolderName + '/main.jpeg'" [alt]="product.name" (click)="showDialog(product.galeryFolderName, 'main.jpeg')"></p-image>
