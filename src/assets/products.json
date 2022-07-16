@@ -1,21 +1,31 @@
 {
 	"data": [
         {
-			"name": "TV",
+			"name": "TV Hisense ULED 55'' ",
 			"description": "Product Description",
 			"price": 410,
 			"galeryFolderName": "tv",
 			"galeryImages": [
-				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "main.jpeg"
 			],
-			"available": false
+			"available": true
+		},
+		{
+			"name": "Aspirador Conga Cecotec",
+			"description": "Product Description",
+			"price": 150,
+			"galeryFolderName": "aspirador",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "main.jpeg"
+			],
+			"available": true
 		},
 		{
 			"name": "Ventilador",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "ventilador",
 			"galeryImages": [
-				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 20,
 			"available": true
@@ -23,9 +33,9 @@
         {
 			"name": "Mesa escritório",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "mesaescritorio",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 35,
 			"available": true
@@ -33,9 +43,9 @@
         {
 			"name": "Cadeira escritório",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "cadeiraescritorio",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 30,
 			"available": true
@@ -43,9 +53,9 @@
         {
 			"name": "Mesinha de centro",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "mesacentro",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 15,
 			"available": true
@@ -53,9 +63,9 @@
         {
 			"name": "Colchão inflável + bomba",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "colchao",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 25,
 			"available": true
@@ -63,39 +73,39 @@
         {
 			"name": "Chaleira elétrica",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "chaleira",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 10,
 			"available": true
 		},
         {
-			"name": "Air Fryer",
-			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"name": "Air Fryer - Kubo Fritadeira sem óleo 2,5 l",
+			"description": "Fritadeira a ar, 1500 W, temperatura ajustável, temporizador, branco",
+			"galeryFolderName": "airfryer",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "main.jpeg"
 			],
 			"price": 35,
 			"available": true
 		},
         {
-			"name": "Grill",
-			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"name": "Grill Cecotec",
+			"description": "Grelhador e churrasco elétrico",
+			"galeryFolderName": "grill",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 40,
 			"available": true
 		},
         {
-			"name": "Torradeira",
+			"name": "Torradeira KUNFT KT3408 2E (750 W)",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "torradeira",
 			"galeryImages": [
-				"1.jpg", "2.jpg", "1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "main.jpeg"
 			],
 			"price": 5,
 			"available": true
@@ -103,9 +113,9 @@
         {
 			"name": "Jarra de água",
 			"description": "Product Description",
-			"galeryFolderName": "tv",
+			"galeryFolderName": "jarra",
 			"galeryImages": [
-				"1.jpg", "2.jpg"
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 15,
 			"available": true

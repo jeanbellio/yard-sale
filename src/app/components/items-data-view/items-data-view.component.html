@@ -6,7 +6,7 @@
             <div class="col-4">
                 <div class="product-grid-item card">
                     <div class="product-grid-item-content">
-                        <p-image [src]="'assets/image/products/' + product.galeryFolderName + '/main.jpg'" [alt]="product.name" (click)="showDialog(product.galeryFolderName, 'main.jpg')"></p-image>
+                        <p-image [src]="'assets/image/products/' + product.galeryFolderName + '/main.jpeg'" [alt]="product.name" (click)="showDialog(product.galeryFolderName, 'main.jpeg')"></p-image>
                         <div class="product-name">{{product.name}}</div>
                         <div class="product-description">{{product.description}}</div>
                     </div>
@@ -27,7 +27,7 @@
 
 
                     <div class="product-grid-item-bottom">
-                        <span class="product-price">${{product.price}}</span>
+                        <span class="product-price">{{product.price}}€</span>
                     </div>
                 </div>
             </div>
