@@ -8,7 +8,7 @@
 			"galeryImages": [
 				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "main.jpeg"
 			],
-			"available": true
+			"available": false
 		},
 		{
 			"name": "Aspirador Conga Cecotec",
@@ -28,7 +28,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 20,
-			"available": true
+			"available": false
 		},
         {
 			"name": "Mesa escritório",
@@ -48,7 +48,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 35,
-			"available": true
+			"available": false
 		},
         {
 			"name": "Mesinha de centro",
@@ -68,7 +68,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 25,
-			"available": true
+			"available": false
 		},
         {
 			"name": "Chaleira elétrica",
@@ -118,7 +118,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 15,
-			"available": true
+			"available": false
 		}
 	]
 }
