@@ -58,7 +58,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 15,
-			"available": true
+			"available": false
 		},
         {
 			"name": "Colchão inflável + bomba",
@@ -98,7 +98,7 @@
 				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
 			],
 			"price": 40,
-			"available": true
+			"available": false
 		},
         {
 			"name": "Torradeira KUNFT KT3408 2E (750 W)",
