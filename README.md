@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This is a little project to simplify the selling of common products. This was idealized while I was moving to another country.
 
+You can take a look at a live version of it by [clicking here](https://danielmaria.github.io/yard-sale/)
+
 ## How to use
 
 The use of it is really simple:
