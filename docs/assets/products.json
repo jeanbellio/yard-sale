@@ -1,0 +1,124 @@
+{
+	"data": [
+        {
+			"name": "TV Hisense ULED 55'' ",
+			"description": "TV HISENSE 55U7QF (ULED - 55'' - 140 cm - 4K Ultra HD - Smart TV). Dimensões (L x A x P)122.7 x 77 x 25 cm. Peso 15,4 Kg. Produto sem caixa – disponível isopor para deslocamento.",
+			"price": 450,
+			"galeryFolderName": "tv",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "main.jpeg"
+			],
+			"available": false
+		},
+		{
+			"name": "Aspirador Conga Cecotec",
+			"description": "Conga 2290 Ultra Home. Robot aspirador com base de esvaziamento automático, esfrega, aspira e varre ao mesmo tempo. Depósito de sólidos e misto, ambos compatíveis com a base de esvaziamento automático. A base de esvaziamento automático permite uma limpeza higiénica. Deteção automática do saco. 2 litros de capacidade. Produto com caixa.",
+			"price": 180,
+			"galeryFolderName": "aspirador",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "main.jpeg"
+			],
+			"available": true
+		},
+		{
+			"name": "Ventilador",
+			"description": "Orbegozo Ventoinha de pé, 50 W. Três velocidades de ventilação. Produto sem caixa, fácil transporte.",
+			"galeryFolderName": "ventilador",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 20,
+			"available": false
+		},
+        {
+			"name": "Mesa escritório",
+			"description": "Mesa dobrável para computador. Tamanho aberto: 100 x 50 x 75 cm. Tamanho dobrado: 100 x 70 x 6 cm. Aproximadamente 10,5 kg. Sem montagem: a montagem leva apenas 5 minutos, o que é fácil, rápido e confortável. Produto sem caixa, fácil transporte.",
+			"galeryFolderName": "mesaescritorio",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 45,
+			"available": true
+		},
+        {
+			"name": "Cadeira escritório",
+			"description": "Cadeira de escritório preta com algumas marcas de uso, principalmente nos braços laterais.",
+			"galeryFolderName": "cadeiraescritorio",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 35,
+			"available": false
+		},
+        {
+			"name": "Mesinha de centro",
+			"description": "Mesa de centro/canto, leve e tampo de vidro removível.",
+			"galeryFolderName": "mesacentro",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 15,
+			"available": false
+		},
+        {
+			"name": "Colchão inflável + bomba",
+			"description": "Fibertech Colchão insuflável Deluxe High, casal. Dimensões do produto: 191 x 137 x 25 cm. Intex Bomba de mão/pé: Bomba manual Intex Quick II dupla mede 36 x 11 x 10,5 cm, com velocidade dupla (infla nos dois movimentos). A mangueira é de estilo acordeão (110 cm), possui 3 tamanhos de bicos diferentes que se encaixam na maioria das válvulas. O insuflador é feito de material durável e leve para facilitar o transporte. Produtos com caixa.",
+			"galeryFolderName": "colchao",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 25,
+			"available": false
+		},
+        {
+			"name": "Chaleira elétrica",
+			"description": "Jarro Elétrico BECKEN BWK1677 (2000 W - 1.5 L). Dimensões (AxLxP): 25,2 x 22,6 x 19,2 cm. Peso de 1,4 kg.",
+			"galeryFolderName": "chaleira",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 10,
+			"available": true
+		},
+        {
+			"name": "Air Fryer - Kubo Fritadeira sem óleo 2,5 l",
+			"description": "Kubo Fritadeira sem óleo 2,5 l, fritadeira a ar, 1500 W, temperatura ajustável, temporizador, branco. Marca: Kubo. Capacidade: 2.5 Litros. Cor: Branco/verde. Dimensões do produto: 17.8 x 23.4 x 24.8 cm. Produto com caixa.",
+			"galeryFolderName": "airfryer",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "main.jpeg"
+			],
+			"price": 35,
+			"available": true
+		},
+        {
+			"name": "Grill Cecotec",
+			"description": "Cecotec Tasty&Grill 2000 Bamboo LineStone. Potência de 2000 W, estrutura de bambu, termostato regulável, superfície grill, revestimento RockStone, pode ser lavado na máquina de lavar louça. Produto com caixa.",
+			"galeryFolderName": "grill",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 40,
+			"available": false
+		},
+        {
+			"name": "Torradeira KUNFT KT3408 2E (750 W)",
+			"description": "Torradeira de duas fendas standard Kunft KT3408 2E. 750 W de potência, apresenta as funções de descongelação, aquecimento e paragem imediata, Luz e sinal sonoro de aviso. Dimensões (AxLxP): 26,5 x 17,8 x 17 cm. Produto sem caixa.",
+			"galeryFolderName": "torradeira",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "main.jpeg"
+			],
+			"price": 5,
+			"available": true
+		},
+        {
+			"name": "Jarra de água",
+			"description": "Jarra de filtro para água – Marca BRITA. Tamanho padrão de 2,4 litros: projetado para caber na porta do frigorífico. Tamanho: 11 x 26.5 x 27.5 centímetros. Produto sem caixa.",
+			"galeryFolderName": "jarra",
+			"galeryImages": [
+				"1.jpeg", "2.jpeg", "3.jpeg", "main.jpeg"
+			],
+			"price": 15,
+			"available": false
+		}
+	]
+}
